@@ -1,0 +1,3 @@
+first need to create a store -> only one store should be made
+
+to make a slice , we need to make three things : name of slice , initialState and reducers
